@@ -24,6 +24,16 @@
 
 装好后，进入设置-高级-语言-语言-添加语言-中文简体-设为以这种语言显示就可以了。关键是怎么登陆我的Google账户同步之前安装的扩展，关键是SwitchyOmega，用来爬墙。但是这里有一个悖论，登录Google需要爬墙。爬墙现在我用的是Trojan，目前看来还算好，这个目前已经设置好了，关于这个以后有时间再讲，关键是Trojan用的是Socks5代理，Win10系统自带没法设置，需要借助外界的，这里我用的是V2Ray。
 #### V2RayN
-下载最新版的V2RayN（https://github.com/2dust/v2rayN/releases/download/3.19/v2rayN-Core.zip），使用V2Ray建立全局Socks5代理。
+下载最新版的V2RayN[https://github.com/2dust/v2rayN/releases/download/3.19/v2rayN-Core.zip](https://github.com/2dust/v2rayN/releases/download/3.19/v2rayN-Core.zip),使用V2Ray建立全局Socks5代理。
 * 下载后解压缩，然后运行v2rayN.exe
 * 选择服务器-添加[Socks]服务器
+* 服务器地址填127.0.0.1，服务区端口填1070
+* v2rayN图标上点右键-Http代理-选择全局模式
+然后就可以爬墙了，这个时候就可以同步Chrome了。
+
+V2rayN的作用也结束了。
+#### Xshell，Xshell，Xftp
+工作用，看到官网上有测试版，测试版不需要购买，就先用了。
+
+### Office
+正式用还得用这个。

@@ -37,3 +37,20 @@ V2rayN的作用也结束了。
 
 ### Office
 正式用还得用这个。
+这次安装使用了[Office Tool Plus](https://otp.landian.vip/zh-cn/download.html)这个软件，非常不错。
+参考这个（[https://www.jianshu.com/p/3d1fffd0bdb2](https://www.jianshu.com/p/3d1fffd0bdb2)）安装教程。
+* 选择部署
+* 增加产品-选择Office专业增强版2019-批量版
+* 语言包为简体中文
+* 体系结构：x64-通道：Office2019企业长期版-安装方式：在线安装-安装模块：Office部署工具
+* 看到下面又iSlide，以前没用过，搜了下感觉不错，也选上了
+#### 开始部署
+然后就开始下载安装了，速度很快，应该不到20分钟
+之后就可以激活了
+#### 激活
+* 选择激活
+* 选择许可证：ProPlus2019Volume
+* 安装许可证
+* KMS管理：选择kms.03k.org
+* 激活成功
+**成功**

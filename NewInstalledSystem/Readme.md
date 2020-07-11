@@ -54,3 +54,17 @@ V2rayN的作用也结束了。
 * KMS管理：选择kms.03k.org
 * 激活成功
 **成功**
+### VSC
+为了查看一些文本文档，所以安装了这个软件。
+但是下载安装后发现界面是英文的。
+按照以下办法切换为中文
+* Ctrl+Shift+P
+* 输入configure display language
+* 点击 Add language
+* 安装简体中文
+* 重启即可
+### 百度网盘
+为了下载MaterialsStudio
+### MaterialsStudio2019
+为了构造模型方便
+

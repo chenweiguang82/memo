@@ -67,4 +67,12 @@ V2rayN的作用也结束了。
 为了下载MaterialsStudio
 ### MaterialsStudio2019
 为了构造模型方便
+#### 激活
+* 安装时候到configure license，勾去掉
+* 修改ms2019.lic第一行，替换this_host为计算机名
+* 复制许可证文件ms2019.lic到如下路径中（默认路径）
+> C:\Program Files (x86)\BIOVIA\LicensePack\Licenses\
+> C:\Program Files (x86)\BIOVIA\LicensePack\share\data\
+> C:\Program Files (x86)\BIOVIA\LicensePack\win32\bin\
+
 

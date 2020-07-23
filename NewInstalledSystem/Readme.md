@@ -23,7 +23,7 @@
 这个直接下载安装程序然后直接装就可以了，但是奇怪的是每次我安装的都是繁体版本的。
 
 装好后，进入设置-高级-语言-语言-添加语言-中文简体-设为以这种语言显示就可以了。关键是怎么登陆我的Google账户同步之前安装的扩展，关键是SwitchyOmega，用来爬墙。但是这里有一个悖论，登录Google需要爬墙。爬墙现在我用的是Trojan，目前看来还算好，这个目前已经设置好了，关于这个以后有时间再讲，关键是Trojan用的是Socks5代理，Win10系统自带没法设置，需要借助外界的，这里我用的是V2Ray。
-#### V2RayN
+### V2RayN
 下载最新版的V2RayN[https://github.com/2dust/v2rayN/releases/download/3.19/v2rayN-Core.zip](https://github.com/2dust/v2rayN/releases/download/3.19/v2rayN-Core.zip),使用V2Ray建立全局Socks5代理。
 * 下载后解压缩，然后运行v2rayN.exe
 * 选择服务器-添加[Socks]服务器
@@ -32,7 +32,7 @@
 然后就可以爬墙了，这个时候就可以同步Chrome了。
 
 V2rayN的作用也结束了。
-#### Xshell，Xshell，Xftp
+### Xshell，Xshell，Xftp
 工作用，看到官网上有测试版，测试版不需要购买，就先用了。
 
 ### Office
@@ -75,4 +75,16 @@ V2rayN的作用也结束了。
 > C:\Program Files (x86)\BIOVIA\LicensePack\share\data\
 > C:\Program Files (x86)\BIOVIA\LicensePack\win32\bin\
 
+### Oringlab
+画图Origin还是少不了，以前一直用的破解的，想着现在新装系统了，看看有没有最新的，搜了下普遍的是2019b，但是看到很多人说这个破解版本很不稳定，经常崩溃。
+
+同时搜到的过程中发现origin近些年也变化很大，版本更新很快，还有了官方中文版，甚至Originlab为中国学生提供了[免费半年的学习版](https://my.originlab.com/forum/topic.asp?TOPIC_ID=22328)，只要有edu邮箱就可以，这个不错。
+
+跟着步骤申请下来，然后邮箱里就会收到一封邮件，里面包括：
+* 一个百度网盘链接，包含最新版的orgin
+* 一个序列号
+* 一个激活码
+然后下载安装，安装过程中输入序列号，安装完打开的时候会提示输入激活码。
+
+安装正版的感觉还是不错的，如果origin不贵的话，还真想用正版的。
 

@@ -88,3 +88,12 @@ V2rayN的作用也结束了。
 
 安装正版的感觉还是不错的，如果origin不贵的话，还真想用正版的。
 
+## Manjaro 20.0.3
+之前的系统是win10+ubuntu18.04，听说现在manjaro成第一流行的发行版了，基于archlinux，之前玩过一阵archlinux，确实挺不一样的，archlinux的AUR非常丰富，安装软件比较方便，因此决定安装这个发行版玩玩。
+
+这个发行版据说kde的界面最漂亮，很久没用过kde的了，之前一直是GNOME。参考这篇教程[https://www.cnblogs.com/HGNET/p/12712977.html](https://www.cnblogs.com/HGNET/p/12712977.html)
+- 首先下载[安装镜像](https://manjaro.org/download/)
+- 然后下载rufus，记得下载低版本的，现在的版本，3.11的没法选择分区类型。我下载的是3.5p免安装版
+- 选择GPT，DD模式写入镜像
+- 之后使用U盘启动进行安装
+- 我建了三个分区，/分区，swap分区和/boot/efi分区，记住/boot/efi分区要和win10的ESP分区是同一个分区
